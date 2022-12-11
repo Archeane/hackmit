@@ -12,7 +12,7 @@
   "dependencies": {
     "@azure/cosmos": "^3.2.0",
     "core-util-is": "^1.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "twilio": "^3.34.0",
     "watson-developer-cloud": "^4.0.1"
   }
